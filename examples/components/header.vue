@@ -1,6 +1,6 @@
 <template>
     <div class="u-header">
-        flag-wind-wap
+        flag-wind-mobile
     </div>
 </template>
 

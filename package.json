@@ -1,7 +1,7 @@
 {
-    "name": "flagwind-wap",
+    "name": "flagwind-mobile",
     "version": "1.0.0",
-    "description": "flagwind wap library",
+    "description": "flagwind mobile library",
     "author": "Evan <skcy@vip.qq.com>",
     "scripts": {
         "dev": "webpack-dev-server --content-base test/ --open --inline --hot --compress --history-api-fallback --port 8010 --config build/webpack.dev.config.js",
@@ -16,8 +16,8 @@
         "src",
         "dist"
     ],
-    "main": "dist/flagwind-wap.js",
-    "typings": "dist/typings/flagwind-wap.d.ts",
+    "main": "dist/flagwind-mobile.js",
+    "typings": "dist/typings/flagwind-mobile.d.ts",
     "keywords": [
         "flagwind",
         "typescript"
@@ -26,10 +26,10 @@
     "homepage": "http://www.flagwind.org",
     "repository": {
         "type": "git",
-        "url": "https://github.com/flagwind/flagwind-wap"
+        "url": "https://github.com/flagwind/flagwind-mobile"
     },
     "bugs": {
-        "url": "https://github.com/flagwind/flagwind-wap/issues"
+        "url": "https://github.com/flagwind/flagwind-mobile/issues"
     },
     "dependencies": {
         "vue-property-decorator": "^6.0.0",

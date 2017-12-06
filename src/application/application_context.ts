@@ -77,7 +77,7 @@ export default class ApplicationContext extends ApplicationContextBase
      */
     protected constructor()
     {
-        super("flagwind-wap");
+        super("flagwind-mobile");
         
         // 注册路由组件
         Vue.use(Router);
